@@ -1,0 +1,10 @@
+{
+    "name":"My Express js app --prod",
+    "application": {
+        "environment": "prod"
+      },
+      "dbConfig":{
+          "name":"classc-prod",
+          "host":"www.classc.geeks"
+      }
+  }

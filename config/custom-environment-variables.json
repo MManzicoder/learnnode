@@ -1,0 +1,10 @@
+
+{
+    "application": {
+    "port": "app_port"
+},
+"dbConfig":{
+    "port":"db_port",
+    "password":"db_password"
+}
+}

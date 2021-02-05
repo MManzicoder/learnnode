@@ -1,0 +1,12 @@
+{
+    "name":"My Express js app --dev",
+    "application": {
+        "environment": "dev"
+      },
+      "dbConfig":{
+          "name":"classc-dev",
+          "host":"localhost",
+          "port":"localhost",
+          "password":"never"
+      }
+  }
